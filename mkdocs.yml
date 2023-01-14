@@ -1,0 +1,98 @@
+site_name: IEEE RAS TC on Model-based Optimization for Robotics
+site_url: https://tcoptrob.github.io
+site_dir: docs
+docs_dir: src
+
+nav:
+  - Home: index.md
+  - News:
+    - news/index.md
+  - Contact: contact.md
+  - Resources: resources.md
+  - Seminar Series: seminars.md
+  - Join us: https://app.smartsheet.com/b/form?EQBCT=53a21a09edc84961b0c98dba392dbc15
+
+theme:
+  # name: cinder
+  name: material
+  favicon: images/logo.jpg
+  logo: images/logo.jpg
+  # # Turn off Previous/Next navigation links in the navbar
+  # disable_nav_previous_next: true
+  # # Turn off Search in the navbar
+  # disable_nav_search: false
+  # # Turn off the site_name link in the navbar
+  # disable_nav_site_name: false
+  # # Turn off the footer entirely
+  # disable_footer: false
+  # # Turn off the default footer message, but display the page revision date if it's available
+  # disable_footer_except_revision: false
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.prune
+    - navigation.indexes
+  palette:
+  # Palette toggle for dark mode
+  - scheme: slate
+    primary: white
+    accent: pink
+    toggle:
+      icon: material/lightbulb
+      name: Switch to light mode
+
+  # Pallete toggle for light mode
+  - scheme: default
+    primary: black
+    accent: pink
+    toggle:
+      icon: material/lightbulb-outline
+      name: Switch to dark mode
+
+plugins:
+  - search
+  - blogging:
+      # dirs:
+      #   - news
+      categories:
+        - name: news
+          dirs:
+            - news
+          # size: 2
+          show_total: true
+          # theme:
+          #   name: card
+      features:
+        tags: {}
+      # full_content: true # Use the full content for blog description
+      locale: en         # The locale for time localizations, default: system's locale
+      time_format: '%Y-%m-%d' # %H:%M:%S' # The format used to display the time
+      meta_time_format: '%Y-%m-%d' # %H:%M:%S' # The format used to parse the time from meta
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.extra
+  - pymdownx.magiclink
+  - tables
+  # - toc:
+  #     toc_depth : "1-1"
+
+# extra_css:
+#   - https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css
+extra_javascript:
+  - js/img_carousel.js 
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/tcoptrob
+      name: TCOptRob on GitHub
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@tcoptrob
+      name: TCOptRob on YouTube
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/TCOptRob
+      name: TCOptRob on Twitter
