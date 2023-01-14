@@ -8,6 +8,7 @@
 - `pip install mkdocs`
 - `pip install mkdocs-material`
 - `pip install mkdocs-pymdownx-material-extras`
+- `pip install mkdocs-blogging-plugin`
 
 ## Quickly Testing Website
 
