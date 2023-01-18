@@ -15,6 +15,7 @@ nav:
 theme:
   # name: cinder
   name: material
+  custom_dir: src/overrides
   favicon: images/logo.jpg
   logo: images/logo.jpg
   # # Turn off Previous/Next navigation links in the navbar
@@ -34,6 +35,8 @@ theme:
     - navigation.top
     - navigation.prune
     - navigation.indexes
+    - header.autohide
+    # - announce.dismiss
   palette:
   # Palette toggle for dark mode
   - scheme: slate
@@ -80,8 +83,6 @@ markdown_extensions:
   # - toc:
   #     toc_depth : "1-1"
 
-# extra_css:
-#   - https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css
 extra_javascript:
   - js/img_carousel.js 
 
