@@ -22,7 +22,9 @@ jobs:
     env:
       CI_HOME: ${{github.workspace}}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       - name: Install Ubuntu packages
         run: sudo apt-get install -y python3-pip git
       - name: Install pip packages
@@ -35,6 +37,8 @@ jobs:
           pip install mkdocs-blogging-plugin
       - name: Build website
         run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           cd ${{github.workspace}} && mkdocs build
           mv docs docs_new
           git checkout docs && rm -rf docs
