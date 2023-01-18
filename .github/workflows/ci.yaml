@@ -36,3 +36,8 @@ jobs:
       - name: Build website
         run: |
           cd ${{github.workspace}} && mkdocs build
+          mv docs docs_new
+          git checkout docs && rm -rf docs
+          mv docs_new docs
+          git commit -am "Update website"
+          git push

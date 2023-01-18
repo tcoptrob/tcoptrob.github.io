@@ -9,7 +9,7 @@
 
 **Speaker**: Justin Carpentier
 
-**Title**: Progress and prospects in optimization for control and learning in robotics.
+**Title**: *Progress and prospects in optimization for control and learning in robotics.*
 
 **Date**: Friday, February 17th 2023
 
