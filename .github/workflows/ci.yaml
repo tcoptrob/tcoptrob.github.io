@@ -1,0 +1,38 @@
+# https://help.github.com/en/articles/workflow-syntax-for-github-actions
+
+name: CI Website TCOptRob
+
+on:
+  push:
+    branches:
+      - "**"
+  pull_request:
+    branches:
+      - "**"
+
+jobs:
+  build:
+    if: github.event_name != 'workflow_dispatch'
+    name: OS:${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-20.04]
+    env:
+      CI_HOME: ${{github.workspace}}
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install Ubuntu packages
+        run: apt install -y python3-pip git
+      - name: Install pip packages
+        run: |
+          pip install pymdown-extensions
+          pip install py-markdown-table
+          pip install mkdocs
+          pip install mkdocs-material
+          pip install mkdocs-pymdownx-material-extras
+          pip install mkdocs-blogging-plugin
+      - name: Build website
+        run: |
+          cd ${{github.workspace}} && mkdocs build
