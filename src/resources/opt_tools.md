@@ -41,6 +41,22 @@ Weboage: https://github.com/loco-3d/crocoddyl
 
 License: BSD 3-clause
 
+### ProxSuite
+
+ProxSuite is a collection of open-source, numerically robust, precise and efficient numerical solvers (e.g., LPs, QPs, etc.) rooted in revisited primal-dual proximal algorithms. ProxSuite offers scalable optimizers that can deal with dense, sparse or matrix-free problems. While the first targeted application is Robotics, ProxSuite can be used in other contexts without limits. ProxSuite is already plugged to many optimization frameworks such as CVXPY, CasADi and TSID.
+
+License: BSD-2-Clause license
+
+Webpage: https://github.com/Simple-Robotics/proxsuite
+
+### HPP-FCL
+
+HPP-FCL is a generic purpose C++ library for efficient and reliable collision detection between geometries. It is an extension of the famous FCL library, including many additional features like security margin, distance lower-bound computations, etc. It supports a large set of geometries: basic shapes, height fields, octrees, etc. and comes with Python bindings for easy code prototyping. HPP-FCL is already connected to many existing robotics libraries, including Pinocchio, OCS2, Crocoddyl and the Humanoid Path Planner.
+
+License: BSD-2-Clause license
+
+Webpage: https://github.com/humanoid-path-planner/hpp-fcl
+
 
 ### Ipopt
 
@@ -83,7 +99,7 @@ A toolbox that uses C++ implementations of CasADi, Ipopt, and acados in the back
 
 License: BSD 3-clause
 
-Webpage: https://openocl.org/
+Webpage: https://openocl.github.io/
 
 
 ### qpOASES
