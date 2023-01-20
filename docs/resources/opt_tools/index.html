@@ -485,6 +485,20 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#proxsuite" class="md-nav__link">
+    ProxSuite
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hpp-fcl" class="md-nav__link">
+    HPP-FCL
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#ipopt" class="md-nav__link">
     Ipopt
   </a>
@@ -614,6 +628,14 @@
 <p>Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on an efficient Differential Dynamic Programming (DDP) algorithm. Crocoddyl computes optimal trajectories along to optimal feedback gains. It uses Pinocchio for fast computation of robot dynamics and its analytical derivatives.</p>
 <p>Weboage: <a href="https://github.com/loco-3d/crocoddyl">https://github.com/loco-3d/crocoddyl</a></p>
 <p>License: BSD 3-clause</p>
+<h3 id="proxsuite">ProxSuite</h3>
+<p>ProxSuite is a collection of open-source, numerically robust, precise and efficient numerical solvers (e.g., LPs, QPs, etc.) rooted in revisited primal-dual proximal algorithms. ProxSuite offers scalable optimizers that can deal with dense, sparse or matrix-free problems. While the first targeted application is Robotics, ProxSuite can be used in other contexts without limits. ProxSuite is already plugged to many optimization frameworks such as CVXPY, CasADi and TSID.</p>
+<p>License: BSD-2-Clause license</p>
+<p>Webpage: <a href="https://github.com/Simple-Robotics/proxsuite">https://github.com/Simple-Robotics/proxsuite</a></p>
+<h3 id="hpp-fcl">HPP-FCL</h3>
+<p>HPP-FCL is a generic purpose C++ library for efficient and reliable collision detection between geometries. It is an extension of the famous FCL library, including many additional features like security margin, distance lower-bound computations, etc. It supports a large set of geometries: basic shapes, height fields, octrees, etc. and comes with Python bindings for easy code prototyping. HPP-FCL is already connected to many existing robotics libraries, including Pinocchio, OCS2, Crocoddyl and the Humanoid Path Planner.</p>
+<p>License: BSD-2-Clause license</p>
+<p>Webpage: <a href="https://github.com/humanoid-path-planner/hpp-fcl">https://github.com/humanoid-path-planner/hpp-fcl</a></p>
 <h3 id="ipopt">Ipopt</h3>
 <p>Ipopt is an open-source solver for large-scale nonlinear continuous optimization. It can be used from modeling environments, such as AIMMS, AMPL, GAMS, or Matlab, and it is also available as a callable library with interfaces to C++, C, Fortran, Java, and R. Ipopt uses an interior point method, together with a filter linear search procedure.</p>
 <p>License: Eclipse Public License</p>
@@ -633,7 +655,7 @@
 <h3 id="open-optimal-control-library-openocl">Open Optimal Control Library (OpenOCL)</h3>
 <p>A toolbox that uses C++ implementations of CasADi, Ipopt, and acados in the backend. Derivatives are calculated automatically using CasADi. For trajectory optimization they use the direct collocation method and solve the non-linear program using CasADi and Ipopt. OpenOCL has a basic interface to acados which provides some fast SQP methods.</p>
 <p>License: BSD 3-clause</p>
-<p>Webpage: <a href="https://openocl.org/">https://openocl.org/</a></p>
+<p>Webpage: <a href="https://openocl.github.io/">https://openocl.github.io/</a></p>
 <h3 id="qpoases">qpOASES</h3>
 <p>qpOASES is an open-source C++ implementation of the recently proposed online active set strategy, which was inspired by important observations from the field of parametric quadratic programming (QP). It has several theoretical features that make it particularly suited for model predictive control (MPC) applications. Further numerical modifications have made qpOASES a reliable QP solver, even when tackling semi-definite, ill-posed or degenerated QP problems. Moreover, several interfaces to third-party software like ​Matlab or ​Simulink are provided that make qpOASES easy-to-use even for users without knowledge of C/C++.</p>
 <p>License: GNU Lesser General Public License (LGPL), v2.1</p>
