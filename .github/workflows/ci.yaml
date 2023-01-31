@@ -44,5 +44,6 @@ jobs:
           git checkout docs && rm -rf docs
           mv docs_new docs
           printf "www.tcoptrob.org" > docs/CNAME
+          git add .
           git commit -am "Update website"
           git push
