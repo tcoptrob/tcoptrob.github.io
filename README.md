@@ -2,13 +2,12 @@
 
 ## Installing Dependencies
 
-- `pip install Markdown`
-- `pip install pymdown-extensions`
-- `pip install py-markdown-table`
-- `pip install mkdocs`
-- `pip install mkdocs-material`
-- `pip install mkdocs-pymdownx-material-extras`
-- `pip install mkdocs-blogging-plugin`
+- `pip install pymdown-extensions==9.9.2`
+- `pip install py-markdown-table==0.3.3`
+- `pip install mkdocs==1.4.2`
+- `pip install mkdocs-material==9.0.9`
+- `pip install mkdocs-pymdownx-material-extras==2.4.2`
+- `pip install mkdocs-blogging-plugin==2.2.2`
 
 ## Quickly Testing Website
 
