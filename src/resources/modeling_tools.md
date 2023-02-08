@@ -25,11 +25,19 @@ License: GNU Lesser General Public License v3.0 or v2.1
 
 ## Pinocchio - Fast Forward Inverse Dynamic for Multibody Systems
 
-Pinocchio is a C++ library for dynamic computations focusing on robotic, computer animation and biomechanical applications. It is based on the dynamic multi-body computations formalized by Featherstone in his book. The software comes with a python wrapping and visualization tool.
+Pinocchio is a C++ library that instantiates the state-of-the-art Rigid Body Algorithms for poly-articulated systems based on revisited Roy Featherstone's algorithms. Besides, Pinocchio provides the analytical derivatives of the main Rigid-Body Algorithms like the Recursive Newton-Euler Algorithm or the Articulated-Body Algorithm. Pinocchio is first tailored for robotics applications, but it can be used in extra contexts (biomechanics, computer graphics, vision, etc.). It is built upon Eigen for linear algebra and FCL for collision detection. Pinocchio comes with a Python interface for fast code prototyping, directly accessible through Conda. Pinocchio is now at the heart of various robotics software as Crocoddyl, an open-source and efficient Differential Dynamic Programming solver for robotics, the Stack-of-Tasks, an open-source and versatile hierarchical controller framework or the Humanoid Path Planner, an open-source software for Motion and Manipulation Planning.
 
 Webpage: https://stack-of-tasks.github.io/pinocchio/
 
-License: GNU Lesser General Public License v3.0 or later
+License: BSD-2-Clause license
+
+## HPP-FCL
+
+HPP-FCL is a generic purpose C++ library for efficient and reliable collision detection between geometries. It is an extension of the famous FCL library, including many additional features like security margin, distance lower-bound computations, etc. It supports a large set of geometries: basic shapes, height fields, octrees, etc. and comes with Python bindings for easy code prototyping. HPP-FCL is already connected to many existing robotics libraries, including Pinocchio, OCS2, Crocoddyl and the Humanoid Path Planner.
+
+Webpage: https://github.com/humanoid-path-planner/hpp-fcl
+
+License: BSD-2-Clause license
 
 ## RBDyn
 
