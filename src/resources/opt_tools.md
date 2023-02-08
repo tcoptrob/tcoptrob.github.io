@@ -49,14 +49,6 @@ License: BSD-2-Clause license
 
 Webpage: https://github.com/Simple-Robotics/proxsuite
 
-### HPP-FCL
-
-HPP-FCL is a generic purpose C++ library for efficient and reliable collision detection between geometries. It is an extension of the famous FCL library, including many additional features like security margin, distance lower-bound computations, etc. It supports a large set of geometries: basic shapes, height fields, octrees, etc. and comes with Python bindings for easy code prototyping. HPP-FCL is already connected to many existing robotics libraries, including Pinocchio, OCS2, Crocoddyl and the Humanoid Path Planner.
-
-License: BSD-2-Clause license
-
-Webpage: https://github.com/humanoid-path-planner/hpp-fcl
-
 
 ### Ipopt
 
