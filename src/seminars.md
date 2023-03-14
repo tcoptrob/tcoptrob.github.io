@@ -13,7 +13,7 @@
 
 **Date**: Friday, March 24th 2023
 
-**Time**: 13:00 - 14:00 EST (GMT -5:00)
+**Time**: 13:00 - 14:00 EDT (GMT -4:00)
 
 **Link**: [https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09](https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09)
 
