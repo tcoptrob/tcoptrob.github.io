@@ -9,7 +9,7 @@
 
 **Speaker**: Nathan Ratliff
 
-**Title**: *To Be Announced*
+**Title**: On the Geometric Foundations of Continuous Control
 
 **Date**: Friday, March 24th 2023
 
@@ -25,6 +25,6 @@
 | Jan. 13, 2023 | Carlos Mastalli | Building athletic intelligence in legged robots: a top-down approach | [(link)](https://www.youtube.com/watch?v=ljkN7jclsWM) |
 |  | Majid Khadiv | Optimal Control and Learning for Agile Locomotion | [(link)](https://youtu.be/ljkN7jclsWM?t=1638) |
 | Feb. 17, 2023 | Justin Carpentier | Progress and prospects in optimization for control and learning in robotics | [(link)](https://www.youtube.com/watch?v=tG64oj5GrsE) |
-| Mar. 24, 2023 | Nathan Ratliff | *To Be Announced* |  |
+| Mar. 24, 2023 | Nathan Ratliff | On the Geometric Foundations of Continuous Control |  |
 | Apr. 28, 2023 | Hae-won Park | *To Be Announced* |  |
 | | Ioannis Havoutis | *To Be Announced* |  |
