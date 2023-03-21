@@ -33,7 +33,7 @@ If you would like to contribute with projects, publications, tools, or any resou
 
 ![Adrien Escande](images/0_escande_adrien.jpg){: style="width:10%"}
 
-**Affiliation**: National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Japan
+**Affiliation**: Inria Center at Grenoble Alpes University, Grenoble, France
 
 **email**: [adrien.escande@gmail.com](mailto:adrien.escande@gmail.com)
 
