@@ -5,7 +5,7 @@
 
 # 2022-2023 Seminar Series
 
-## Upcoming Seminar
+<!-- ## Upcoming Seminar
 
 **Speaker 1**: Hae-won Park
 
@@ -19,9 +19,9 @@
 
 **Time**: 9:00 EDT (GMT -4:00)
 
-**Link**: [https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09](https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09)
+**Link**: [https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09](https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09) -->
 
-## 2022-2023 Line-Up and Video Links
+## Line-Up and Video Links
 
 | Date | Speaker | Title | YouTube |
 | ----------- | ----------- | ----------- | ----------- |
@@ -30,5 +30,5 @@
 |  | Majid Khadiv | Optimal Control and Learning for Agile Locomotion | [(link)](https://youtu.be/ljkN7jclsWM?t=1638) |
 | Feb. 17, 2023 | Justin Carpentier | Progress and prospects in optimization for control and learning in robotics | [(link)](https://www.youtube.com/watch?v=tG64oj5GrsE) |
 | Mar. 24, 2023 | Nathan Ratliff | On the Geometric Foundations of Continuous Control | [(link)](https://www.youtube.com/watch?v=_7B181kS4Xg) |
-| Apr. 28, 2023 | Hae-won Park | Model Predictive Control for Legged Robots: From Fast Quadruped Locomotion to Agile Climbing Systems |  |
-| | Ioannis Havoutis | Learning and optimization for locomanipulation with quadrupedal robots |  |
+| Apr. 28, 2023 | Hae-won Park | Model Predictive Control for Legged Robots: From Fast Quadruped Locomotion to Agile Climbing Systems | [(link)](https://www.youtube.com/watch?v=ivfQNhxEjAw&t=133s) |
+| | Ioannis Havoutis | Learning and optimization for locomanipulation with quadrupedal robots | [(link)](https://www.youtube.com/watch?v=ivfQNhxEjAw&t=1352s) |
