@@ -2,82 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://tcoptrob.github.io/</loc>
-         <lastmod>2023-05-10</lastmod>
+         <lastmod>2023-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tcoptrob.github.io/contact/</loc>
-         <lastmod>2023-05-10</lastmod>
+         <lastmod>2023-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tcoptrob.github.io/resources/</loc>
-         <lastmod>2023-05-10</lastmod>
+         <lastmod>2023-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tcoptrob.github.io/seminars/</loc>
-         <lastmod>2023-05-10</lastmod>
+         <lastmod>2023-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tcoptrob.github.io/news/</loc>
-         <lastmod>2023-05-10</lastmod>
+         <lastmod>2023-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tcoptrob.github.io/news/2022-11-16/</loc>
-         <lastmod>2023-05-10</lastmod>
+         <lastmod>2023-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tcoptrob.github.io/news/2023-01-12-best-paper/</loc>
-         <lastmod>2023-05-10</lastmod>
+         <lastmod>2023-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tcoptrob.github.io/news/2023-01-12/</loc>
-         <lastmod>2023-05-10</lastmod>
+         <lastmod>2023-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tcoptrob.github.io/news/2023-02-10/</loc>
-         <lastmod>2023-05-10</lastmod>
+         <lastmod>2023-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tcoptrob.github.io/news/2023-03-14/</loc>
-         <lastmod>2023-05-10</lastmod>
+         <lastmod>2023-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tcoptrob.github.io/news/2023-04-23/</loc>
-         <lastmod>2023-05-10</lastmod>
+         <lastmod>2023-05-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tcoptrob.github.io/news/2023-05-17/</loc>
+         <lastmod>2023-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tcoptrob.github.io/resources/books/</loc>
-         <lastmod>2023-05-10</lastmod>
+         <lastmod>2023-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tcoptrob.github.io/resources/learning/</loc>
-         <lastmod>2023-05-10</lastmod>
+         <lastmod>2023-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tcoptrob.github.io/resources/modeling_tools/</loc>
-         <lastmod>2023-05-10</lastmod>
+         <lastmod>2023-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tcoptrob.github.io/resources/opt_tools/</loc>
-         <lastmod>2023-05-10</lastmod>
+         <lastmod>2023-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tcoptrob.github.io/resources/projects/</loc>
-         <lastmod>2023-05-10</lastmod>
+         <lastmod>2023-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
