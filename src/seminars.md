@@ -9,7 +9,7 @@
 
 ## Upcoming Seminar
 
-**Speaker**: Yuval Tassa
+**Speaker**: Yuval Tassa (Google DeepMind)
 
 **Title**: MJPC: Asynchronous UI for real-time behavior synthesis
 
