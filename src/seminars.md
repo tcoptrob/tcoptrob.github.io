@@ -9,17 +9,17 @@
 
 ## Upcoming Seminar
 
-**Speaker**: Alessandro Saccon (Eindhoven University of Technology (TU/e))
+**Speaker**: Noémie Jacquier (Karlsruhe Institute of Technology (KIT))
 
-[Flyer](assets/flyer_AlessandroSaccon-Jan31.pdf)
+<!-- [Flyer](assets/flyer_AlessandroSaccon-Jan31.pdf) -->
 
-**Title**: Impact-Aware Manipulation: Exploiting Intentional Collisions to Speed Up Task Execution
+**Title**: From Data Structure, Physics, and Human Knowledge: A Manifold of Robotic Geometries
 
-**Abstract**: *Traditionally, robots fear collisions. Contact is either avoided at all cost or established at vanishing speed. There are several reasons for this to happen: an important one is the lack of suitable hardware. Robot physical components, especially joints and transmissions, need to be made resilient to collisions by design in order not to get damaged. However, recent hardware developments, including those in the area of soft robotics, are rapidly changing the hardware landscape. Modern robot hardware is starting to showcase the possibility of sustaining and thus exploiting impacts. A clear and well-known example is Boston Dynamics' humanoid robot ATLAS, performing acrobatic moves such as somersaults and jumps. The availability of impact-resilient hardware opens up possibilities to develop and validate new impact-aware manipulation and locomotion strategies. Strategies where contact between the robot and irs surrounding environment is intentionally established at desired non-negligible speed to achieve user-defined motion objectives. The exploitation of intentional impacts is particularly appealing for reducing a task's execution time. But also for reducing energy consumption due to the lack of fast decelerations and acceleration traditionally required to stop the robot at contact time and to make it move again after contact has been established. In this talk, I will provide an overview of the research carried out at the TU/e on this fascinating new field of research, specifically focusing on impact-aware control and post-impact velocity prediction aspects.*
+**Abstract**: *To be deployed in our everyday life, robots must display outstanding learning and adaptation capabilities allowing them to act, react, and continuously learn in unstructured dynamic environments. In addition, robots should display such capabilities in real time, which entails the ability to continuously learn from small numbers of demonstrations and/or interactions. In this context, the quality and efficiency of robot learning approaches may be improved via the introduction of inductive bias. In this talk, I will view inductive bias through the lens of geometry, which is ubiquitous in robotics. Specifically, I will discuss via three examples how geometry-based inductive bias can be introduced into robot learning from data structures, from physics, and from human knowledge. First, I will show that the performance of various algorithms may be improved by considering the intrinsic geometric characteristics of data. Second, I will discuss how the dynamic properties of humans and robots are straightforwardly accounted for by considering physics-based geometric configuration spaces. Finally, I will show that imposing an additional geometric structure to probabilistic latent spaces allows us to learn low-dimensional representations of robotics taxonomies in continuous domains from which we can generate realistic motions.*
 
-**Date**: Wednesday, January 31st 2024
+**Date**: Friday, February 23rd 2024
 
-**Time**: 09:00-10:00 AM EST (GMT -05:00)
+**Time**: 10:00-11:00 AM EST (GMT -05:00)
 
 **Link**: [https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09](https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09)
 
@@ -28,7 +28,7 @@
 | Date | Speaker | Title | YouTube |
 | ----------- | ----------- | ----------- | ----------- |
 | Dec. 1, 2023  | Yuval Tassa | MJPC: Asynchronous UI for real-time behavior synthesis | [(link)](https://youtu.be/J-JO-lgaKtw?si=sNU49xGwOvx2mNLg) |
-| Jan. 31, 2024 | Alessandro Saccon | Impact-Aware Manipulation: Exploiting Intentional Collisions to Speed Up Task Execution |  |
-| Feb. 23, 2024 | Noémie Jaquier | TBA |  |
+| Jan. 31, 2024 | Alessandro Saccon | Impact-Aware Manipulation: Exploiting Intentional Collisions to Speed Up Task Execution | [(link)](https://www.youtube.com/watch?v=gu3j-hCEozA) |
+| Feb. 23, 2024 | Noémie Jaquier | From Data Structure, Physics, and Human Knowledge: A Manifold of Robotic Geometries |  |
 | Mar. 14, 2024 | Ludovic Righetti | TBA |  |
 | Apr. 19, 2024 | Toshiyuki Ohtsuka | TBA |  |
