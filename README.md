@@ -15,3 +15,18 @@
 - `cd tcoptrob.github.io`
 - `mkdocs serve`
 - Open browser and go to `http://127.0.0.1:8000/`
+
+## Testing through Docker
+
+First **build the image**:
+
+- `cd .ci`
+- `docker build -t tcopt .`
+
+Then from the root of the repo:
+
+- `docker run --rm -it --net=host -e DISPLAY -v ${HOME}/.Xauthority:/home/robot/.Xauthority -v "$(pwd)":/home/tcoptrob/src --entrypoint /bin/bash tcopt`
+- *Inside the docker container:*
+    - `cd src`
+    - `mkdocs serve`
+- Open browser and go to `http://127.0.0.1:8000/`
