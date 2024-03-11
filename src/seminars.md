@@ -19,7 +19,7 @@
 
 **Date**: Thursday, March 14th 2024
 
-**Time**: 09:00-10:00 AM EST (GMT -05:00)
+**Time**: 09:00-10:00 AM EDT
 
 **Link**: [https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09](https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09)
 
