@@ -31,4 +31,4 @@
 | Jan. 31, 2024 | Alessandro Saccon | Impact-Aware Manipulation: Exploiting Intentional Collisions to Speed Up Task Execution | [(link)](https://www.youtube.com/watch?v=gu3j-hCEozA) |
 | Feb. 23, 2024 | Noémie Jaquier | From Data Structure, Physics, and Human Knowledge: A Manifold of Robotic Geometries | [(link)](https://www.youtube.com/watch?v=0okfttUQf2A) |
 | Mar. 14, 2024 | Ludovic Righetti | Learning complex behaviors with nonlinear MPC | [(link)](https://www.youtube.com/watch?v=aYvJU9KeO8Q) |
-| Apr. 19, 2024 | Toshiyuki Ohtsuka | Numerical Optimization for Nonlinear Model Predictive Control:From Smooth Nonlinearities to Switches, Jumps, and Logic |  |
+| Apr. 19, 2024 | Toshiyuki Ohtsuka | Numerical Optimization for Nonlinear Model Predictive Control:From Smooth Nonlinearities to Switches, Jumps, and Logic | [(link)](https://www.youtube.com/watch?v=-7KsCywg3nI) |

@@ -88,3 +88,47 @@ If you would like to contribute with projects, publications, tools, or any resou
 **Affiliation**: Barnard College, Columbia University, New York City, NYC, USA
 
 **email**: [bplancher@barnard.edu](mailto:bplancher@barnard.edu)
+
+### Frederike Dümbgen
+
+![Frederike Dümbgen](images/1188_dumbgen_frederike.jpg){: style="width:10%"}
+
+**Affiliation**: Willow research group, Inria Paris, France
+
+**email**: [frederike.duembgen@gmail.com](mailto:frederike.duembgen@gmail.com)
+
+
+
+## Student Co-Chairs
+
+### Hana Catic
+
+![Hana Catic](images/1189_catic_hana.jpg){: style="width:10%"}
+
+**Affiliation**: École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
+
+**email**: [hana.catic@epfl.ch](mailto:hana.catic@epfl.ch)
+
+### Se Hwan Jeon
+
+![Se Hwan Jeon](images/empty.png){: style="width:10%"}
+
+**Affiliation**: MIT, Biomimetic Robotics Lab, USA
+
+**email**: [sehwan@mit.edu](mailto:sehwan@mit.edu)
+
+### Kevin Tracy
+
+![Kevin Tracy](images/1190_tracy_kevin.jpg){: style="width:10%"}
+
+**Affiliation**: Carnegie Mellon University, USA
+
+**email**: [ktracy@cmu.edu](mailto:ktracy@cmu.edu)
+
+### Elisa Alboni
+
+![Elisa Alboni](images/1191_alboni_elisa.png){: style="width:10%"}
+
+**Affiliation**: University of Trento, Italy
+
+**email**: [elisa.alboni@unitn.it](mailto:elisa.alboni@unitn.it)
