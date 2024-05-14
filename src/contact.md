@@ -111,7 +111,7 @@ If you would like to contribute with projects, publications, tools, or any resou
 
 ### Se Hwan Jeon
 
-![Se Hwan Jeon](images/empty.png){: style="width:10%"}
+![Se Hwan Jeon](images/1192_sehwan_jeon.jpg){: style="width:10%"}
 
 **Affiliation**: MIT, Biomimetic Robotics Lab, USA
 
