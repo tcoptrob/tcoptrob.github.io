@@ -7,7 +7,7 @@
 
 [Link to older Seminar Series](seminars_old.md)
 
-## Upcoming Seminar
+<!-- ## Upcoming Seminar
 
 **Speaker**: Toshiyuki Ohtsuka (Kyoto University)
 
@@ -21,7 +21,7 @@
 
 **Time**: 09:00-10:00 AM EDT
 
-**Link**: [https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09](https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09)
+**Link**: [https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09](https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09) -->
 
 ## Line-Up and Video Links
 
