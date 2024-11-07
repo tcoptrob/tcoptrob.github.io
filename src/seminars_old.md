@@ -5,6 +5,19 @@
 
 # Archive of Seminar Series
 
+## 2023-2024
+
+## Line-Up and Video Links
+
+| Date | Speaker | Title | YouTube |
+| ----------- | ----------- | ----------- | ----------- |
+| Dec. 1, 2023  | Yuval Tassa | MJPC: Asynchronous UI for real-time behavior synthesis | [(link)](https://youtu.be/J-JO-lgaKtw?si=sNU49xGwOvx2mNLg) |
+| Jan. 31, 2024 | Alessandro Saccon | Impact-Aware Manipulation: Exploiting Intentional Collisions to Speed Up Task Execution | [(link)](https://www.youtube.com/watch?v=gu3j-hCEozA) |
+| Feb. 23, 2024 | Noémie Jaquier | From Data Structure, Physics, and Human Knowledge: A Manifold of Robotic Geometries | [(link)](https://www.youtube.com/watch?v=0okfttUQf2A) |
+| Mar. 14, 2024 | Ludovic Righetti | Learning complex behaviors with nonlinear MPC | [(link)](https://www.youtube.com/watch?v=aYvJU9KeO8Q) |
+| Apr. 19, 2024 | Toshiyuki Ohtsuka | Numerical Optimization for Nonlinear Model Predictive Control:From Smooth Nonlinearities to Switches, Jumps, and Logic | [(link)](https://www.youtube.com/watch?v=-7KsCywg3nI) |
+
+
 ## 2022-2023
 
 ### Line-Up and Video Links

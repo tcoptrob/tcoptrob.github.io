@@ -3,32 +3,31 @@
     -navigation
 ---
 
-# 2023-2024 Seminar Series
+# 2024-2025 Seminar Series
 
 [Link to older Seminar Series](seminars_old.md)
 
-<!-- ## Upcoming Seminar
+## Upcoming Seminar
 
-**Speaker**: Toshiyuki Ohtsuka (Kyoto University)
+**Speaker**: Andrea Del Prete (University of Trento)
 
-[Flyer](assets/flyer_ToshiyukiOhtsuka-April19.pdf)
+[Flyer](assets/flyer_AndreaDelPrete-Dec5.pdf)
 
-**Title**: Numerical Optimization for Nonlinear Model Predictive Control:From Smooth Nonlinearities to Switches, Jumps, and Logic
+**Title**: Globally Optimal and Safe Robot Control
 
-**Abstract**: *Advances in computers and numerical solution methods have been expanding the application of model predictive control (MPC), which solves optimal control problems in real time to perform feedback control. In particular, nonlinear MPC (NMPC) has been gaining attention due to its applications to complex nonlinear mechanical systems. Additionally, software tools for NMPC have rapidly developed to facilitate its implementation. In this talk, I will first present a comprehensive overview of real-time optimization algorithms, software tools, and applications of NMPC. One of the key ideas there is exploiting the smoothness of nonlinearities in problems. Then, I will present recent advances in parallel computation methods for NMPC and an application of NMPC for whole-body control of a quadruped robot with switches and state jumps. Furthermore, I will also introduce ongoing work on computation methods for more general optimal control problems involving equilibrium constraints or signal temporal logic specifications, which appear in various problems in robotics.*
+**Abstract**: *In recent years, advanced data-driven control methods are unlocking the potential of complex robotics systems, and we can expect this trend to continue at an exponential rate in the near future. However, these methods present two major shortcomings. First, their training process is excessively data hungry and strongly dependent on the exploration strategy. Second, the resulting policies cannot ensure constraint satisfaction (i.e. safety). In this talk I will discuss how we are using tools from optimal control to address these two issues.*
 
-**Date**: Friday, April 19th 2024
+*First, I will present "Continuous Actor Critic with Trajectory Optimization" (CACTO), a novel algorithm that combines Trajectory Optimization (TO) and Reinforcement Learning (RL). CACTO learns a control policy via TO-guided RL policy search. Our method is validated on several non-convex problems with different robotic systems. Our results show the great capabilities of CACTO in escaping local minima, while being more sample-efficient than DDPG and PPO. To address the issue of safety, a well-known tool is the control-invariant set (a.k.a. safe set). Unfortunately, for nonlinear systems, such sets can only be approximated. I will present some novel MPC schemes that guarantee safety under weaker assumptions than classic methods. Our key idea is to make the safe-set constraint move backward (i.e. recede) over the horizon. We evaluated our approaches on simulated robot manipulators, empirically demonstrating that they lead to less constraint violations, while retaining good tracking cost and computation times.*
 
-**Time**: 09:00-10:00 AM EDT
+**Date**: Thursday, December 5th 2024
 
-**Link**: [https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09](https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09) -->
+**Time**: 09:00-10:00 AM EST
+
+**Link**: [https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09](https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09)
 
 ## Line-Up and Video Links
 
 | Date | Speaker | Title | YouTube |
 | ----------- | ----------- | ----------- | ----------- |
-| Dec. 1, 2023  | Yuval Tassa | MJPC: Asynchronous UI for real-time behavior synthesis | [(link)](https://youtu.be/J-JO-lgaKtw?si=sNU49xGwOvx2mNLg) |
-| Jan. 31, 2024 | Alessandro Saccon | Impact-Aware Manipulation: Exploiting Intentional Collisions to Speed Up Task Execution | [(link)](https://www.youtube.com/watch?v=gu3j-hCEozA) |
-| Feb. 23, 2024 | Noémie Jaquier | From Data Structure, Physics, and Human Knowledge: A Manifold of Robotic Geometries | [(link)](https://www.youtube.com/watch?v=0okfttUQf2A) |
-| Mar. 14, 2024 | Ludovic Righetti | Learning complex behaviors with nonlinear MPC | [(link)](https://www.youtube.com/watch?v=aYvJU9KeO8Q) |
-| Apr. 19, 2024 | Toshiyuki Ohtsuka | Numerical Optimization for Nonlinear Model Predictive Control:From Smooth Nonlinearities to Switches, Jumps, and Logic | [(link)](https://www.youtube.com/watch?v=-7KsCywg3nI) |
+| Dec. 5, 2024  | Andrea Del Prete | Globally Optimal and Safe Robot Control | (link) |
+
