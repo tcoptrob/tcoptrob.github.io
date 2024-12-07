@@ -29,5 +29,5 @@
 
 | Date | Speaker | Title | YouTube |
 | ----------- | ----------- | ----------- | ----------- |
-| Dec. 5, 2024  | Andrea Del Prete | Globally Optimal and Safe Robot Control | (link) |
+| Dec. 5, 2024  | Andrea Del Prete | Globally Optimal and Safe Robot Control | [(link)](https://www.youtube.com/watch?v=BQR0lANoJzI) |
 
