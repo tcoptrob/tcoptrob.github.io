@@ -69,9 +69,9 @@ If you would like to contribute with projects, publications, tools, or any resou
 
 ![Yaran Ding](images/1185_ding_yaran.jpg){: style="width:10%"}
 
-**Affiliation**: Massachusetts Institute of Technology, Cambridge, MA, USA
+**Affiliation**: University of Michigan, Department of Robotics, Ann Arbor, MI, USA
 
-**email**: [yanran@mit.edu](mailto:yanran@mit.edu)
+**email**: [yanrand@umich.edu](mailto:yanrand@umich.edu)
 
 ### Shivesh Kumar
 
