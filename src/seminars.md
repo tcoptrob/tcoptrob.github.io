@@ -31,5 +31,5 @@
 | Feb. 6, 2025  | Ian Abraham | Optimality and Robustness in Robotic Exploration |  |
 | Feb. 21, 2025  | Cosimo Della Santina  | TBD |  |
 | Mar. 13, 2025  | Jemin Hwangbo | TBD |  |
-| Apr., 2025  | Sylvia Herbert | TBD |  |
+| Apr. 3, 2025  | Sylvia Herbert | TBD |  |
 
