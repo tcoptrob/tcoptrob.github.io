@@ -9,15 +9,15 @@
 
 ## Upcoming Seminar
 
-**Speaker**: Cosimo Della Santina (TU Delft)
+**Speaker**: Jemin Hwangbo (KAIST)
 
-[Flyer](assets/flyer_CosimoDellaSantina-Feb21.pdf)
+[Flyer](assets/flyer_JeminHwangbo-March13.pdf)
 
-**Title**: Motor intelligence in soft robots and other unconventional robotic systems
+**Title**: Learning-based control for quadrupedal robots
 
-**Abstract**: *Animal motion capabilities remain unmatched despite AI's huge leaps over the past few years. Following this observation, researchers have argued that any solution to the challenge of embodying AI in mechanical systems should not solely focus on the robot's brain and cannot disregard the intelligence in the body. In this talk, I will present examples from my group's research on mechanically intelligent unconventional robotic systems, with a special focus on soft robots. I will present the challenge of controlling these systems and discuss how model-based and data-driven perspectives can synergistically contribute to solving the great challenge of animal-level motion performance in artificial agents.*
+**Abstract**: *In this talk, I will introduce our recent work on control and planning for quadrupedal robots. Our goal is to develop a dynamic legged robot capable of autonomously traversing complex and unstructured terrains. Achieving this requires a robust vision system, a path planner that integrates both geometric and semantic information, and a reliable controller that remains effective even with noisy perception data. Additionally, all these components must bridge the sim-to-real gap to ensure reliable performance on the real robot. I will discuss our efforts in achieving these goals with our quadrupedal robot, Raibo.*
 
-**Date**: Friday, February 21st 2025
+**Date**: Thursday, March 13th 2025
 
 **Time**: 09:00-10:00 AM EDT
 
@@ -29,7 +29,7 @@
 | ----------- | ----------- | ----------- | ----------- |
 | Dec. 5, 2024  | Andrea Del Prete | Globally Optimal and Safe Robot Control | [(link)](https://www.youtube.com/watch?v=BQR0lANoJzI) |
 | Feb. 6, 2025  | Ian Abraham | Optimality and Robustness in Robotic Exploration | [(link)](https://youtu.be/2wZAAMb84BI) |
-| Feb. 21, 2025  | Cosimo Della Santina  | Motor intelligence in soft robots and other unconventional robotic systems |  |
-| Mar. 13, 2025  | Jemin Hwangbo | TBD |  |
+| Feb. 21, 2025  | Cosimo Della Santina  | Motor intelligence in soft robots and other unconventional robotic systems | [(link)](https://youtu.be/Wx2cCgwi2S0) |
+| Mar. 13, 2025  | Jemin Hwangbo | Learning-based control for quadrupedal robots |  |
 | Apr. 3, 2025  | Sylvia Herbert | TBD |  |
 
