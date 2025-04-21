@@ -33,5 +33,5 @@
 | Feb. 6, 2025  | Ian Abraham | Optimality and Robustness in Robotic Exploration | [(link)](https://youtu.be/2wZAAMb84BI) |
 | Feb. 21, 2025  | Cosimo Della Santina  | Motor intelligence in soft robots and other unconventional robotic systems | [(link)](https://youtu.be/Wx2cCgwi2S0) |
 | Mar. 13, 2025  | Jemin Hwangbo | Learning-based control for quadrupedal robots | [(to be uploaded)] |
-| Apr. 3, 2025  | Sylvia Herbert | Scalable safety analysis and control synthesis for nonlinear differential games |  |
+| Apr. 3, 2025  | Sylvia Herbert | Scalable safety analysis and control synthesis for nonlinear differential games | [(link)](https://youtu.be/JwxlBzmoII0) |
 
