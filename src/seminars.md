@@ -9,29 +9,31 @@
 
 ## Upcoming Seminar
 
-**Speaker**: Sylvia Herbert (University of California, San Diego)
+**Speaker**: Heng Yang (Harvard University)
 
-[Flyer](assets/flyer_SylviaHerbert-April13.pdf)
+[Flyer](assets/flyer_HankYang_Dec11.pdf)
 
-**Title**: Scalable safety analysis and control synthesis for nonlinear differential games
+**Title**: Semidefinite Relaxations for Robot Perception and Control:  From Theory to Practice and Back
 
-**Abstract**: *Hamilton-Jacobi (HJ) Reachability analysis is a powerful tool for solving differential games with bounded inputs; it can provide safety and liveness guarantees for each player and the corresponding optimal control law. However, control theoretic approaches to solving nonlinear differential games struggle with the "curse of dimensionality." We will explore two methods for overcoming this issue, one with conservative guarantees and one with probabilistic guarantees.*
+**Abstract**: *Many problems in robot perception, control, and planning can be formulated as nonconvex polynomial optimization problems (POPs). The Moment–SOS (sums-of-squares) hierarchy provides a principled approach for global optimization by relaxing a nonconvex POP into a sequence of convex semidefinite programs (SDPs) whose optimal values converge to that of the original problem. Despite its theoretical elegance, the framework is often viewed as impractical due to the need to solve large-scale and ill-conditioned SDPs.*
 
-*Recently, the applied math community has been exploring the use of the Hopf formula for efficiently solving linear differential games with bounded inputs via ADMM. We will show how we can lift a nonlinear game to a linear space wherein we can bound linearization error. We can then treat this error as an adversary in a linear game solvable by the Hopf formula, with results that can map back to the original space for conservative guarantees on the true nonlinear game. More recently, solving HJ reachability using model-based supervised learning via physics-informed neural networks (PINNs) has become increasingly popular because the computation time scales with complexity rather than dimensionality. However, these PINNs suffer from learning errors and catastrophic forgetting. We will show how linear supervision (e.g. from the same Hopf formula above) of the nonlinear game can significantly improve the learning results, resulting in tighter probabilistic guarantees. This work was recently nominated for the Best Paper Award at the Learning for Dynamics and Control (L4DC) conference.*
+*In the first part of this talk, I will show how problem-specific structure in robotics can be exploited to make Moment–SOS relaxations practical at scale. On the perception side, I will present XM, our structure-from-motion pipeline that leverages monocular depth prediction to cast bundle adjustment as a polynomial optimization problem. Using GPU-accelerated low-rank Riemannian optimization, XM solves bundle adjustment instances with thousands to tens of thousands of images. On the control side, I will introduce SPOT, a trajectory planning pipeline that exploits sparsity inherent in robot motion planning problems, such as Markov and kinematic chain structure. With a GPU-accelerated ADMM solver, SPOT is able to generate near–globally optimal trajectories within seconds, including contact-rich motions.*
 
-**Date**: Thursday, April 3rd, 2025
+*In the second part, I will turn to theory, briefly highlighting our recent work on understanding and accelerating the convergence of first-order methods for SDPs. This includes proving local linear convergence of ADMM, designing a composite polynomial filter for approximate projection onto the positive semidefinite cone, and analyzing the slow-convergence regions of ADMM.*
 
-**Time**: 10:00-11:00 AM EDT
+**Date**: Thursday, December 11th, 2025
 
-**Link**: [https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09](https://columbiauniversity.zoom.us/j/91247893326?pwd=L2JWU21aQzc4cU1ZQklEb0QrWGQvdz09)
+**Time**: 09:00-10:00 AM EST
+
+**Link**: [https://dartmouth.zoom.us/j/94765993258?pwd=aErnkjFBqQaOTEgonxZkeNTbojHRbp.1](https://dartmouth.zoom.us/j/94765993258?pwd=aErnkjFBqQaOTEgonxZkeNTbojHRbp.1)
 
 ## Line-Up and Video Links
 
 | Date | Speaker | Title | YouTube |
 | ----------- | ----------- | ----------- | ----------- |
-| Dec. 5, 2024  | Andrea Del Prete | Globally Optimal and Safe Robot Control | [(link)](https://www.youtube.com/watch?v=BQR0lANoJzI) |
-| Feb. 6, 2025  | Ian Abraham | Optimality and Robustness in Robotic Exploration | [(link)](https://youtu.be/2wZAAMb84BI) |
-| Feb. 21, 2025  | Cosimo Della Santina  | Motor intelligence in soft robots and other unconventional robotic systems | [(link)](https://youtu.be/Wx2cCgwi2S0) |
-| Mar. 13, 2025  | Jemin Hwangbo | Learning-based control for quadrupedal robots | [(link)](https://www.youtube.com/watch?v=rOUQC6g_9eI) |
-| Apr. 3, 2025  | Sylvia Herbert | Scalable safety analysis and control synthesis for nonlinear differential games | [(link)](https://youtu.be/JwxlBzmoII0) |
+| Dec. 11, 2025  | Heng Yang | Semidefinite Relaxations for Robot Perception and Control:  From Theory to Practice and Back |  |
+| Jan. 15, 2026  | Anirudha Majumdar  | *Topic coming soon* |  |
+| Jan. 26, 2025  | Thomas Lew  | *Topic coming soon* | |
+| TBD, 2026  | *Coming soon* | *Topic coming soon* |  |
+| TBD, 2026  | *Coming soon* | *Topic coming soon* |  |
 

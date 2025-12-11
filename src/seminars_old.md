@@ -5,6 +5,18 @@
 
 # Archive of Seminar Series
 
+## 2024-2025
+
+## Line-Up and Video Links
+
+| Date | Speaker | Title | YouTube |
+| ----------- | ----------- | ----------- | ----------- |
+| Dec. 5, 2024  | Andrea Del Prete | Globally Optimal and Safe Robot Control | [(link)](https://www.youtube.com/watch?v=BQR0lANoJzI) |
+| Feb. 6, 2025  | Ian Abraham | Optimality and Robustness in Robotic Exploration | [(link)](https://youtu.be/2wZAAMb84BI) |
+| Feb. 21, 2025  | Cosimo Della Santina  | Motor intelligence in soft robots and other unconventional robotic systems | [(link)](https://youtu.be/Wx2cCgwi2S0) |
+| Mar. 13, 2025  | Jemin Hwangbo | Learning-based control for quadrupedal robots | [(link)](https://www.youtube.com/watch?v=rOUQC6g_9eI) |
+| Apr. 3, 2025  | Sylvia Herbert | Scalable safety analysis and control synthesis for nonlinear differential games | [(link)](https://youtu.be/JwxlBzmoII0) |
+
 ## 2023-2024
 
 ## Line-Up and Video Links
