@@ -3,7 +3,7 @@
     -navigation
 ---
 
-# 2024-2025 Seminar Series
+# 2025-2026 Seminar Series
 
 [Link to older Seminar Series](seminars_old.md)
 
