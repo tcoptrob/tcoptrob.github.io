@@ -33,7 +33,6 @@
 | ----------- | ----------- | ----------- | ----------- |
 | Dec. 11, 2025  | Heng Yang | Semidefinite Relaxations for Robot Perception and Control:  From Theory to Practice and Back |  |
 | Jan. 15, 2026  | Anirudha Majumdar  | *Topic coming soon* |  |
-| Jan. 26, 2025  | Thomas Lew  | *Topic coming soon* | |
-| TBD, 2026  | *Coming soon* | *Topic coming soon* |  |
-| TBD, 2026  | *Coming soon* | *Topic coming soon* |  |
-
+| Jan. 26, 2026  | Thomas Lew  | *Topic coming soon* | |
+| March 12, 2026  | Yan Gu | *Topic coming soon* |  |
+| April 9, 2026  | Somil Bansal | *Topic coming soon* |  |
