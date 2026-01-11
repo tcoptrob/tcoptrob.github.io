@@ -539,13 +539,11 @@
 <h1 id="2025-2026-seminar-series">2025-2026 Seminar Series</h1>
 <p><a href="../seminars_old/">Link to older Seminar Series</a></p>
 <h2 id="upcoming-seminar">Upcoming Seminar</h2>
-<p><strong>Speaker</strong>: Heng Yang (Harvard University)</p>
-<p><a href="../assets/flyer_HankYang_Dec11.pdf">Flyer</a></p>
-<p><strong>Title</strong>: Semidefinite Relaxations for Robot Perception and Control:  From Theory to Practice and Back</p>
-<p><strong>Abstract</strong>: <em>Many problems in robot perception, control, and planning can be formulated as nonconvex polynomial optimization problems (POPs). The Moment–SOS (sums-of-squares) hierarchy provides a principled approach for global optimization by relaxing a nonconvex POP into a sequence of convex semidefinite programs (SDPs) whose optimal values converge to that of the original problem. Despite its theoretical elegance, the framework is often viewed as impractical due to the need to solve large-scale and ill-conditioned SDPs.</em></p>
-<p><em>In the first part of this talk, I will show how problem-specific structure in robotics can be exploited to make Moment–SOS relaxations practical at scale. On the perception side, I will present XM, our structure-from-motion pipeline that leverages monocular depth prediction to cast bundle adjustment as a polynomial optimization problem. Using GPU-accelerated low-rank Riemannian optimization, XM solves bundle adjustment instances with thousands to tens of thousands of images. On the control side, I will introduce SPOT, a trajectory planning pipeline that exploits sparsity inherent in robot motion planning problems, such as Markov and kinematic chain structure. With a GPU-accelerated ADMM solver, SPOT is able to generate near–globally optimal trajectories within seconds, including contact-rich motions.</em></p>
-<p><em>In the second part, I will turn to theory, briefly highlighting our recent work on understanding and accelerating the convergence of first-order methods for SDPs. This includes proving local linear convergence of ADMM, designing a composite polynomial filter for approximate projection onto the positive semidefinite cone, and analyzing the slow-convergence regions of ADMM.</em></p>
-<p><strong>Date</strong>: Thursday, December 11th, 2025</p>
+<p><strong>Speaker</strong>: Ani Majumdar (Princeton University)</p>
+<p><a href="../assets/flyer_AniMahumbar_Jan15.pdf">Flyer</a></p>
+<p><strong>Title</strong>: Video World Models That Know When They Don't Know</p>
+<p><strong>Abstract</strong>: <em>World models in the form of action-conditioned video generation models have the potential to serve as general-purpose simulators for robotics. Their ability to generate photorealistic observations, simulate complex physical interactions, and be improved with data make them an attractive alternative to traditional physics-based simulation for policy evaluation, data generation, and inference-time planning. In this talk, I will highlight our recent work from Google DeepMind on using video models as "simulators" for evaluating generalist robot policies for performance, generalization, and safety. I will then describe how the data-driven nature of video world models also leads to outputs that are not always trustworthy. Indeed, current models exhibit a variety of hallucinations: objects can appear or disappear, deform in unrealistic ways, or move in a manner that defies physics. I will argue that knowing when and where to trust the generations of world models is critical in robotics applications. I will describe recent work from my group at Princeton on training world models that output dense confidence estimates at the subpatch (channel) level, precisely localizing the uncertainty in each generated video frame. Through extensive experiments on large-scale robotics datasets (DROID and Bridge), we demonstrate how our method allows us to identify uncertainty in a calibrated manner, while also enabling out-of-distribution detection in unseen domains. To our knowledge, this is the first work on calibrated uncertainty quantification for action-conditioned video models.</em></p>
+<p><strong>Date</strong>: Thursday, January 15th, 2026</p>
 <p><strong>Time</strong>: 09:00-10:00 AM EST</p>
 <p><strong>Link</strong>: <a href="https://dartmouth.zoom.us/j/94765993258?pwd=aErnkjFBqQaOTEgonxZkeNTbojHRbp.1">https://dartmouth.zoom.us/j/94765993258?pwd=aErnkjFBqQaOTEgonxZkeNTbojHRbp.1</a></p>
 <h2 id="line-up-and-video-links">Line-Up and Video Links</h2>
@@ -563,12 +561,12 @@
 <td>Dec. 11, 2025</td>
 <td>Heng Yang</td>
 <td>Semidefinite Relaxations for Robot Perception and Control:  From Theory to Practice and Back</td>
-<td></td>
+<td><a href="https://youtu.be/nXthoML7ERc">(link)</a></td>
 </tr>
 <tr>
 <td>Jan. 15, 2026</td>
 <td>Anirudha Majumdar</td>
-<td><em>Topic coming soon</em></td>
+<td>Video World Models That Know When They Don't Know</td>
 <td></td>
 </tr>
 <tr>
