@@ -9,19 +9,15 @@
 
 ## Upcoming Seminar
 
-**Speaker**: Heng Yang (Harvard University)
+**Speaker**: Ani Majumdar (Princeton University)
 
-[Flyer](assets/flyer_HankYang_Dec11.pdf)
+[Flyer](assets/flyer_AniMahumbar_Jan15.pdf)
 
-**Title**: Semidefinite Relaxations for Robot Perception and Control:  From Theory to Practice and Back
+**Title**: Video World Models That Know When They Don't Know
 
-**Abstract**: *Many problems in robot perception, control, and planning can be formulated as nonconvex polynomial optimization problems (POPs). The Moment–SOS (sums-of-squares) hierarchy provides a principled approach for global optimization by relaxing a nonconvex POP into a sequence of convex semidefinite programs (SDPs) whose optimal values converge to that of the original problem. Despite its theoretical elegance, the framework is often viewed as impractical due to the need to solve large-scale and ill-conditioned SDPs.*
+**Abstract**: *World models in the form of action-conditioned video generation models have the potential to serve as general-purpose simulators for robotics. Their ability to generate photorealistic observations, simulate complex physical interactions, and be improved with data make them an attractive alternative to traditional physics-based simulation for policy evaluation, data generation, and inference-time planning. In this talk, I will highlight our recent work from Google DeepMind on using video models as "simulators" for evaluating generalist robot policies for performance, generalization, and safety. I will then describe how the data-driven nature of video world models also leads to outputs that are not always trustworthy. Indeed, current models exhibit a variety of hallucinations: objects can appear or disappear, deform in unrealistic ways, or move in a manner that defies physics. I will argue that knowing when and where to trust the generations of world models is critical in robotics applications. I will describe recent work from my group at Princeton on training world models that output dense confidence estimates at the subpatch (channel) level, precisely localizing the uncertainty in each generated video frame. Through extensive experiments on large-scale robotics datasets (DROID and Bridge), we demonstrate how our method allows us to identify uncertainty in a calibrated manner, while also enabling out-of-distribution detection in unseen domains. To our knowledge, this is the first work on calibrated uncertainty quantification for action-conditioned video models.*
 
-*In the first part of this talk, I will show how problem-specific structure in robotics can be exploited to make Moment–SOS relaxations practical at scale. On the perception side, I will present XM, our structure-from-motion pipeline that leverages monocular depth prediction to cast bundle adjustment as a polynomial optimization problem. Using GPU-accelerated low-rank Riemannian optimization, XM solves bundle adjustment instances with thousands to tens of thousands of images. On the control side, I will introduce SPOT, a trajectory planning pipeline that exploits sparsity inherent in robot motion planning problems, such as Markov and kinematic chain structure. With a GPU-accelerated ADMM solver, SPOT is able to generate near–globally optimal trajectories within seconds, including contact-rich motions.*
-
-*In the second part, I will turn to theory, briefly highlighting our recent work on understanding and accelerating the convergence of first-order methods for SDPs. This includes proving local linear convergence of ADMM, designing a composite polynomial filter for approximate projection onto the positive semidefinite cone, and analyzing the slow-convergence regions of ADMM.*
-
-**Date**: Thursday, December 11th, 2025
+**Date**: Thursday, January 15th, 2026
 
 **Time**: 09:00-10:00 AM EST
 
@@ -31,8 +27,8 @@
 
 | Date | Speaker | Title | YouTube |
 | ----------- | ----------- | ----------- | ----------- |
-| Dec. 11, 2025  | Heng Yang | Semidefinite Relaxations for Robot Perception and Control:  From Theory to Practice and Back |  |
-| Jan. 15, 2026  | Anirudha Majumdar  | *Topic coming soon* |  |
+| Dec. 11, 2025  | Heng Yang | Semidefinite Relaxations for Robot Perception and Control:  From Theory to Practice and Back | [(link)](https://youtu.be/nXthoML7ERc) |
+| Jan. 15, 2026  | Anirudha Majumdar  | Video World Models That Know When They Don't Know |  |
 | Jan. 26, 2026  | Thomas Lew  | *Topic coming soon* | |
 | March 12, 2026  | Yan Gu | *Topic coming soon* |  |
 | April 9, 2026  | Somil Bansal | *Topic coming soon* |  |
