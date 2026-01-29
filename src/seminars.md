@@ -9,17 +9,17 @@
 
 ## Upcoming Seminar
 
-**Speaker**: Ani Majumdar (Princeton University)
+**Speaker**: Thomas Lew (Toyota Research Institute)
 
-[Flyer](assets/flyer_AniMahumbar_Jan15.pdf)
+[Flyer](assets/flyer_ThomasLew_Feb19.pdf)
 
-**Title**: Video World Models That Know When They Don't Know
+**Title**: Uncertainty-Aware Control at the Limits
 
-**Abstract**: *World models in the form of action-conditioned video generation models have the potential to serve as general-purpose simulators for robotics. Their ability to generate photorealistic observations, simulate complex physical interactions, and be improved with data make them an attractive alternative to traditional physics-based simulation for policy evaluation, data generation, and inference-time planning. In this talk, I will highlight our recent work from Google DeepMind on using video models as "simulators" for evaluating generalist robot policies for performance, generalization, and safety. I will then describe how the data-driven nature of video world models also leads to outputs that are not always trustworthy. Indeed, current models exhibit a variety of hallucinations: objects can appear or disappear, deform in unrealistic ways, or move in a manner that defies physics. I will argue that knowing when and where to trust the generations of world models is critical in robotics applications. I will describe recent work from my group at Princeton on training world models that output dense confidence estimates at the subpatch (channel) level, precisely localizing the uncertainty in each generated video frame. Through extensive experiments on large-scale robotics datasets (DROID and Bridge), we demonstrate how our method allows us to identify uncertainty in a calibrated manner, while also enabling out-of-distribution detection in unseen domains. To our knowledge, this is the first work on calibrated uncertainty quantification for action-conditioned video models.*
+**Abstract**: *Expert drivers can reliably pilot vehicles at their performance limits, lap after lap, and despite changes in vehicle behavior due to tire temperature, wear, and weather conditions. Current planning and control algorithms still struggle in such settings. In this talk, I will present recent advances in uncertainty-aware control taking us one step closer to expert assistive driving systems: Bayesian information gathering methods for efficient data collection and adaptation, new tools for uncertainty-aware model predictive control (MPC), and a scalable GPU-accelerated differentiable MPC solver suitable for reinforcement learning. I will present drifting and racing results on high-performance cars, and discuss next steps toward scalable, differentiable, data-driven, and uncertainty-aware methods for reliably controlling systems at their limits.*
 
-**Date**: Thursday, January 15th, 2026
+**Date**: Thursday, February 19th, 2026
 
-**Time**: 09:00-10:00 AM EST
+**Time**: 11:00-12:00 AM EST
 
 **Link**: [https://dartmouth.zoom.us/j/94765993258?pwd=aErnkjFBqQaOTEgonxZkeNTbojHRbp.1](https://dartmouth.zoom.us/j/94765993258?pwd=aErnkjFBqQaOTEgonxZkeNTbojHRbp.1)
 
@@ -28,7 +28,7 @@
 | Date | Speaker | Title | YouTube |
 | ----------- | ----------- | ----------- | ----------- |
 | Dec. 11, 2025  | Heng Yang | Semidefinite Relaxations for Robot Perception and Control:  From Theory to Practice and Back | [(link)](https://youtu.be/nXthoML7ERc) |
-| Jan. 15, 2026  | Anirudha Majumdar  | Video World Models That Know When They Don't Know |  |
-| Jan. 26, 2026  | Thomas Lew  | *Topic coming soon* | |
+| Jan. 15, 2026  | Anirudha Majumdar  | Video World Models That Know When They Don't Know | [(link)](https://www.youtube.com/watch?v=DFtEwErSSsg) |
+| Feb. 19, 2026  | Thomas Lew  | Uncertainty-Aware Control at the Limits | |
 | March 12, 2026  | Yan Gu | *Topic coming soon* |  |
 | April 9, 2026  | Somil Bansal | *Topic coming soon* |  |
