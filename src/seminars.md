@@ -11,7 +11,7 @@
 
 **Speaker**: Yan Gu (Purdue University)
 
-[Flyer]()
+[Flyer](assets/flyer_YangGu_Mar25.pdf)
 
 **Title**: Prediction & Reaction in Motion: Humanoid Control for Non-Inertial Worlds and Athletic AI
 
@@ -25,7 +25,7 @@
 
 **Date**: Wednesday, March 25th, 2026
 
-**Time**: 11:00-12:00 AM EST
+**Time**: 9:00-10:00 AM EDT
 
 **Link**: [https://dartmouth.zoom.us/j/94765993258?pwd=aErnkjFBqQaOTEgonxZkeNTbojHRbp.1](https://dartmouth.zoom.us/j/94765993258?pwd=aErnkjFBqQaOTEgonxZkeNTbojHRbp.1)
 
