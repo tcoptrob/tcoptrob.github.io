@@ -9,23 +9,29 @@
 
 ## Upcoming Seminar
 
-**Speaker**: Yan Gu (Purdue University)
+**Speaker**: Somil Bansal (Stanford University)
 
-[Flyer](assets/flyer_YangGu_Mar25.pdf)
+[Flyer](assets/flyer_SomilBansal_Apr10.pdf)
 
-**Title**: Prediction & Reaction in Motion: Humanoid Control for Non-Inertial Worlds and Athletic AI
+**Title**: Learning Safety in the Open World: From Reachability to Foundation Models
 
-**Abstract**: *Humanoids must predict and react in unpredictable, fast-changing environments. This talk presents a unified perspective on whole-body control across two complementary fronts: dynamic locomotion and manipulation when the support surface accelerates, and athletic behavior in table tennis that compresses perception-action cycles to sub-second horizons. These fronts define an emerging research frontier in acceleration-aware, time-critical control that prioritizes anticipation, coordination, and reliable execution.*
+**Abstract**: *As autonomous systems and robots are increasingly deployed in open-world settings, ensuring their safety has
+emerged as a fundamental challenge. Unlike controlled environments, open-world scenarios are characterized by pervasive
+uncertainty—in the environment, system dynamics, and, critically, in the semantics of what constitutes safe behavior.
+These challenges strain the assumptions underlying traditional safety frameworks rooted in control theory and formal
+verification.*
 
-*In non-inertial settings such as moving ships, airplanes, and trains, platform accelerations act as unknown, time-varying disturbances that invalidate common assumptions in modeling, state estimation, planning, and control. I will describe my group's recent advances in both model-based and learning-based approaches that enable robust locomotion on accelerating terrains. These results target high-impact applications such as shipboard operations and public-transit interventions, where reliable function requires reasoning in accelerating frames.*
+*In this talk, I will present a new perspective on extending classical safety paradigms to open-world autonomy. At the core
+is the idea of learning safety representations directly from rich, high-dimensional observations and human-interpretable
+specifications. Concretely, I will introduce observation-conditioned reachability, which enables safety reasoning directly
+from visual inputs, and language-conditioned reachability, which allows safety constraints to be specified and enforced
+through natural language. Building on these ideas, I will show how reachability-based safety representations can serve as
+real-time guardrails and fallback mechanisms for modern AI-enabled systems, including for state-of-the-art foundation
+and generative models.*
 
-*As a complementary stress test, athletic humanoid table tennis exposes limits in the timing and precision of existing perception and decision-making approaches. I will present an end-to-end reinforcement learning framework that maps ball observations and robot proprioception directly to coherent arm swing and footwork, relaxes common hitting-plane constraints, and achieves rapid, accurate returns with versatile two-dimensional footwork in simulation and in zero-shot hardware deployment. This work is part of an ongoing collaboration with Prof. Karthik Ramani at Purdue University.*
+**Date**: Friday, April 10th, 2026
 
-*I will close by synthesizing lessons across both regimes, emphasizing prediction under tight time constraints and reaction through coordinated whole-body motion, and by outlining open problems for generalizable humanoid control in highly dynamic real-world contexts.*
-
-**Date**: Wednesday, March 25th, 2026
-
-**Time**: 9:00-10:00 AM EDT
+**Time**: 9:00-10:00 AM PST
 
 **Link**: [https://dartmouth.zoom.us/j/94765993258?pwd=aErnkjFBqQaOTEgonxZkeNTbojHRbp.1](https://dartmouth.zoom.us/j/94765993258?pwd=aErnkjFBqQaOTEgonxZkeNTbojHRbp.1)
 
@@ -35,6 +41,6 @@
 | ----------- | ----------- | ----------- | ----------- |
 | Dec. 11, 2025  | Heng Yang | Semidefinite Relaxations for Robot Perception and Control:  From Theory to Practice and Back | [(link)](https://youtu.be/nXthoML7ERc) |
 | Jan. 15, 2026  | Anirudha Majumdar  | Video World Models That Know When They Don't Know | [(link)](https://www.youtube.com/watch?v=DFtEwErSSsg) |
-| Feb. 19, 2026  | Thomas Lew  | Uncertainty-Aware Control at the Limits | |
-| March 25, 2026  | Yan Gu | Prediction & Reaction in Motion: Humanoid Control for Non-Inertial Worlds and Athletic AI |  |
-| April 9, 2026  | Somil Bansal | *Topic coming soon* |  |
+| Feb. 19, 2026  | Thomas Lew  | Uncertainty-Aware Control at the Limits | [(link)](https://www.youtube.com/watch?v=hpfcXQJIhdQ&amp) |
+| March 25, 2026  | Yan Gu | Prediction & Reaction in Motion: Humanoid Control for Non-Inertial Worlds and Athletic AI | [(link)](https://www.youtube.com/watch?v=00W4bak1qQ8) |
+| April 10, 2026  | Somil Bansal |  Learning Safety in the Open World: From Reachability to Foundation Models |  |
