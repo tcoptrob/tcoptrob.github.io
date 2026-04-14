@@ -1,4 +1,4 @@
-# IEEE RAS TC on Model-based Optimization for Robotics Website
+# IEEE RAS TC on Optimization for Robotics Website
 
 ## Installing Dependencies
 
