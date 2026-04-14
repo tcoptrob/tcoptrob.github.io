@@ -9,17 +9,29 @@
 
 ## Upcoming Seminar
 
-**Speaker**: Thomas Lew (Toyota Research Institute)
+**Speaker**: Somil Bansal (Stanford University)
 
-[Flyer](assets/flyer_ThomasLew_Feb19.pdf)
+[Flyer](assets/flyer_SomilBansal_Apr10.pdf)
 
-**Title**: Uncertainty-Aware Control at the Limits
+**Title**: Learning Safety in the Open World: From Reachability to Foundation Models
 
-**Abstract**: *Expert drivers can reliably pilot vehicles at their performance limits, lap after lap, and despite changes in vehicle behavior due to tire temperature, wear, and weather conditions. Current planning and control algorithms still struggle in such settings. In this talk, I will present recent advances in uncertainty-aware control taking us one step closer to expert assistive driving systems: Bayesian information gathering methods for efficient data collection and adaptation, new tools for uncertainty-aware model predictive control (MPC), and a scalable GPU-accelerated differentiable MPC solver suitable for reinforcement learning. I will present drifting and racing results on high-performance cars, and discuss next steps toward scalable, differentiable, data-driven, and uncertainty-aware methods for reliably controlling systems at their limits.*
+**Abstract**: *As autonomous systems and robots are increasingly deployed in open-world settings, ensuring their safety has
+emerged as a fundamental challenge. Unlike controlled environments, open-world scenarios are characterized by pervasive
+uncertainty—in the environment, system dynamics, and, critically, in the semantics of what constitutes safe behavior.
+These challenges strain the assumptions underlying traditional safety frameworks rooted in control theory and formal
+verification.*
 
-**Date**: Thursday, February 19th, 2026
+*In this talk, I will present a new perspective on extending classical safety paradigms to open-world autonomy. At the core
+is the idea of learning safety representations directly from rich, high-dimensional observations and human-interpretable
+specifications. Concretely, I will introduce observation-conditioned reachability, which enables safety reasoning directly
+from visual inputs, and language-conditioned reachability, which allows safety constraints to be specified and enforced
+through natural language. Building on these ideas, I will show how reachability-based safety representations can serve as
+real-time guardrails and fallback mechanisms for modern AI-enabled systems, including for state-of-the-art foundation
+and generative models.*
 
-**Time**: 11:00-12:00 AM EST
+**Date**: Friday, April 10th, 2026
+
+**Time**: 9:00-10:00 AM PST
 
 **Link**: [https://dartmouth.zoom.us/j/94765993258?pwd=aErnkjFBqQaOTEgonxZkeNTbojHRbp.1](https://dartmouth.zoom.us/j/94765993258?pwd=aErnkjFBqQaOTEgonxZkeNTbojHRbp.1)
 
@@ -29,6 +41,6 @@
 | ----------- | ----------- | ----------- | ----------- |
 | Dec. 11, 2025  | Heng Yang | Semidefinite Relaxations for Robot Perception and Control:  From Theory to Practice and Back | [(link)](https://youtu.be/nXthoML7ERc) |
 | Jan. 15, 2026  | Anirudha Majumdar  | Video World Models That Know When They Don't Know | [(link)](https://www.youtube.com/watch?v=DFtEwErSSsg) |
-| Feb. 19, 2026  | Thomas Lew  | Uncertainty-Aware Control at the Limits | |
-| March 12, 2026  | Yan Gu | *Topic coming soon* |  |
-| April 9, 2026  | Somil Bansal | *Topic coming soon* |  |
+| Feb. 19, 2026  | Thomas Lew  | Uncertainty-Aware Control at the Limits | [(link)](https://www.youtube.com/watch?v=hpfcXQJIhdQ&amp) |
+| March 25, 2026  | Yan Gu | Prediction & Reaction in Motion: Humanoid Control for Non-Inertial Worlds and Athletic AI | [(link)](https://www.youtube.com/watch?v=00W4bak1qQ8) |
+| April 10, 2026  | Somil Bansal |  Learning Safety in the Open World: From Reachability to Foundation Models |  |
