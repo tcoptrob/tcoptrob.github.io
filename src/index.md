@@ -5,7 +5,7 @@
 
 # Scope
 
-The scope of the **IEEE RAS TC on Model-based Optimization for Robotics** is the development and application of model-based optimization techniques for the generation and control of dynamic behaviors in robotics and their practical implementation.
+The scope of the **IEEE RAS TC on Optimization for Robotics** is the development and application of optimization techniques for the generation and control of dynamic behaviors in robotics and their practical implementation.
 
 <div markdown="span" style="display: block;margin-left: auto;margin-right: auto; left: 30%; position: relative; padding: 0px 0px 35% 0px;">
 ![hrp22](images/hrp22-450x250.png){.carousel : style="display: block;margin-left: auto;margin-right: auto;width:50%; position: absolute"}
@@ -18,7 +18,7 @@ Robots and in particular humanoid robots are extremely complicated dynamical sys
 
 ![hrp2](images/hrp2-sitdownwithcontact.jpg){: style="display: block;margin-left: auto;margin-right: auto;width:30%"}
 
-Important research areas promoted by the **TC Model-based optimization for Robotics** include:
+Important research areas promoted by the **TC on optimization for Robotics** include:
 
 - Optimization-based generation of robot trajectories using dynamical models of the robot and its environment
 - Improve the behavior style of robots by optimization, in particular for humanoid robots (induce natural behavior)

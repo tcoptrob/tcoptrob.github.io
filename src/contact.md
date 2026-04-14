@@ -5,12 +5,6 @@
 
 # Contact
 
-## Workshop Endorsement Request
-
-For IROS 2023, the TC will no longer simply issue TC endorsement letters for workshops, but the endorsement will result in a more consolidated collaboration in term of sponsorships. If you are organizing a workshop at IROS 2023 and would like support from the TC, you can use this form: ([link](https://forms.gle/uq9wpFvtPT9iuEor8)).
-
-If you are organizing a workshop and would like a letter of support from the TC, please complete the following form: ([link](https://forms.gle/c1xwLRkUN5VHVaF8A))
-
 ## Contribute to the TC
 
 If you would like to contribute with projects, publications, tools, or any resources you think may be of interest to the community, you can use this form: ([link](https://forms.gle/XT2gzdZWCgZVtvPC9)).
