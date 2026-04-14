@@ -101,34 +101,34 @@ If you would like to contribute with projects, publications, tools, or any resou
 
 ## Student Co-Chairs
 
-### Hana Catic
+### Jasmine Terrones
 
-![Hana Catic](images/1189_catic_hana.jpg){: style="width:10%"}
+![Jasmine Terrones](images/jasmine_terrones.jpg){: style="width:10%"}
 
-**Affiliation**: École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
+**Affiliation**: MIT, d’Arbeloff Robotics Lab, USA
 
-**email**: [hana.catic@epfl.ch](mailto:hana.catic@epfl.ch)
+**email**: [jterrone@mit.edu](mailto:jterrone@mit.edu)
 
-### Se Hwan Jeon
+### Ioannis Tsikelis
 
-![Se Hwan Jeon](images/1192_sehwan_jeon.jpg){: style="width:10%"}
+![Ioannis Tsikelis](images/ioannis_tsikelis.jpeg){: style="width:10%"}
 
-**Affiliation**: MIT, Biomimetic Robotics Lab, USA
+**Affiliation**: Inria, France
 
-**email**: [sehwan@mit.edu](mailto:sehwan@mit.edu)
+**email**: [ioannis.tsikelis@inria.fr](mailto:ioannis.tsikelis@inria.fr)
 
-### Kevin Tracy
+### Sahánd Wagemakers
 
-![Kevin Tracy](images/1190_tracy_kevin.jpg){: style="width:10%"}
+![Sahánd Wagemakers](images/sahand_wagemakers.png){: style="width:10%"}
 
-**Affiliation**: Carnegie Mellon University, USA
+**Affiliation**: Chalmers University of Technology, RAIL Lab, Sweden
 
-**email**: [ktracy@cmu.edu](mailto:ktracy@cmu.edu)
+**email**: [sahand.wagemakers@chalmers.se](mailto:sahand.wagemakers@chalmers.se)
 
-### Elisa Alboni
+### Roy Xing
 
-![Elisa Alboni](images/1191_alboni_elisa.png){: style="width:10%"}
+![Roy Xing](images/roy_xing.png){: style="width:10%"}
 
-**Affiliation**: University of Trento, Italy
+**Affiliation**: Dartmouth College, NH, USA
 
-**email**: [elisa.alboni@unitn.it](mailto:elisa.alboni@unitn.it)
+**email**: [roy.xing.gr@dartmouth.edu](mailto:roy.xing.gr@dartmouth.edu)
