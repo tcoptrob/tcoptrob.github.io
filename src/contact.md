@@ -17,7 +17,7 @@ If you would like to contribute with projects, publications, tools, or any resou
 
 ### Konstantinos Chatzilygeroudis
 
-![Konstantinos Chatzilygeroudis](images/1186_chatzilygeroudis_konstantinos.jpg){: style="width:10%"}
+![Konstantinos Chatzilygeroudis](images/1186_chatzilygeroudis_konstantinos.jpg){: style="width:10%; clip-path: circle(42% at 49% 45%);"}
 
 **Affiliation**: University of Patras, Patras, Greece
 
@@ -25,7 +25,7 @@ If you would like to contribute with projects, publications, tools, or any resou
 
 ### Yanran Ding
 
-![Yanran Ding](images/1185_ding_yaran.jpg){: style="width:10%"}
+![Yanran Ding](images/1185_ding_yaran.jpg){: style="width:11%; clip-path: circle(42% at 48% 50%);"}
 
 **Affiliation**: University of Michigan, Department of Robotics, Ann Arbor, MI, USA
 
@@ -33,7 +33,7 @@ If you would like to contribute with projects, publications, tools, or any resou
 
 ### Shivesh Kumar
 
-![Shivesh Kumar](images/1187_kumar_shivesh.jpg){: style="width:10%"}
+![Shivesh Kumar](images/1187_kumar_shivesh.jpg){: style="width:10%; clip-path: circle(40% at 50% 45%);"}
 
 **Affiliation**: Chalmers University of Technology, Göteborg, Sweden
 
@@ -41,7 +41,7 @@ If you would like to contribute with projects, publications, tools, or any resou
 
 ### Brian Plancher
 
-![Brian Plancher](images/brian_plancher.png){: style="width:10%"}
+![Brian Plancher](images/brian_plancher.png){: style="width:9%; clip-path: circle(50% at 50% 50%);"}
 
 **Affiliation**:  Dartmouth College, New Hampshire, USA
 
@@ -49,11 +49,11 @@ If you would like to contribute with projects, publications, tools, or any resou
 
 ### Frederike Dümbgen
 
-![Frederike Dümbgen](images/1188_dumbgen_frederike.jpg){: style="width:10%"}
+![Frederike Dümbgen](images/1188_dumbgen_frederike.jpg){: style="width:9.5%; clip-path: circle(42% at 50% 42%);"}
 
 **Affiliation**:  Carnegie Mellon University, Pittsburgh, Pennsylvania, USA
 
-**email**: [frederike.duembgen@gmail.com](mailto:frederike.duembgen@gmail.com)
+**email**: [fduembgen@cmu.edu](mailto:fduembgen@cmu.edu)
 
 
 
@@ -61,7 +61,7 @@ If you would like to contribute with projects, publications, tools, or any resou
 
 ### Jasmine Terrones
 
-![Jasmine Terrones](images/jasmine_terrones.jpg){: style="width:10%"}
+![Jasmine Terrones](images/jasmine_terrones.jpg){: style="width:11%; clip-path: circle(42% at 48% 50%);"}
 
 **Affiliation**: MIT, d’Arbeloff Robotics Lab, USA
 
@@ -69,7 +69,7 @@ If you would like to contribute with projects, publications, tools, or any resou
 
 ### Ioannis Tsikelis
 
-![Ioannis Tsikelis](images/ioannis_tsikelis.jpeg){: style="width:10%"}
+![Ioannis Tsikelis](images/ioannis_tsikelis.jpeg){: style="width:9%; clip-path: circle(42% at 48% 50%);"}
 
 **Affiliation**: Inria, France
 
@@ -77,7 +77,7 @@ If you would like to contribute with projects, publications, tools, or any resou
 
 ### Sahánd Wagemakers
 
-![Sahánd Wagemakers](images/sahand_wagemakers.png){: style="width:10%"}
+![Sahánd Wagemakers](images/sahand_wagemakers.png){: style="width:9%"}
 
 **Affiliation**: Chalmers University of Technology, RAIL Lab, Sweden
 
@@ -85,7 +85,7 @@ If you would like to contribute with projects, publications, tools, or any resou
 
 ### Roy Xing
 
-![Roy Xing](images/roy_xing.png){: style="width:10%"}
+![Roy Xing](images/roy_xing.png){: style="width:10.5%; clip-path: circle(42% at 48% 45%);"}
 
 **Affiliation**: Dartmouth College, New Hampshire, USA
 
