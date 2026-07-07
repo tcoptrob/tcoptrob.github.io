@@ -15,42 +15,6 @@ If you would like to contribute with projects, publications, tools, or any resou
 
 ## Co-Chairs
 
-### Sylvain Calinon
-
-![Sylvain Calinon](images/402_calinon_sylvain.jpg){: style="width:10%"}
-
-**Affiliation**: Idiap Research Institute, Martigny, Switzerland
-
-**email**: [sylvain.calinon@idiap.ch](mailto:sylvain.calinon@idiap.ch)
-
-### Adrien Escande
-
-![Adrien Escande](images/0_escande_adrien.jpg){: style="width:10%"}
-
-**Affiliation**: Inria Center at Grenoble Alpes University, Grenoble, France
-
-**email**: [adrien.escande@gmail.com](mailto:adrien.escande@gmail.com)
-
-### Yue Hu
-
-![Yue Hu](images/0_hu_yue.jpg){: style="width:10%"}
-
-**Affiliation**: University of Waterloo, Waterloo, Canada
-
-**email**: [yue.hu@uwaterloo.ca](mailto:yue.hu@uwaterloo.ca)
-
-### Patrick M. Wensing
-
-![Patrick M. Wensing](images/576_wensing_patrick-m.jpg){: style="width:10%"}
-
-**Affiliation**: University of Notre Dame, South Bend (IN), USA
-
-**email**: [pwensing@nd.edu](mailto:pwensing@nd.edu)
-
-
-
-## Associate Co-Chairs
-
 ### Konstantinos Chatzilygeroudis
 
 ![Konstantinos Chatzilygeroudis](images/1186_chatzilygeroudis_konstantinos.jpg){: style="width:10%"}
@@ -59,9 +23,9 @@ If you would like to contribute with projects, publications, tools, or any resou
 
 **email**: [costashatz@upatras.gr](mailto:costashatz@upatras.gr)
 
-### Yaran Ding
+### Yanran Ding
 
-![Yaran Ding](images/1185_ding_yaran.jpg){: style="width:10%"}
+![Yanran Ding](images/1185_ding_yaran.jpg){: style="width:10%"}
 
 **Affiliation**: University of Michigan, Department of Robotics, Ann Arbor, MI, USA
 
@@ -71,23 +35,23 @@ If you would like to contribute with projects, publications, tools, or any resou
 
 ![Shivesh Kumar](images/1187_kumar_shivesh.jpg){: style="width:10%"}
 
-**Affiliation**: German Research Center for Artificial Intelligence, Germany
+**Affiliation**: Chalmers University of Technology, Göteborg, Sweden
 
-**email**: [shivesh.kumar@dfki.de](mailto:shivesh.kumar@dfki.de)
+**email**: [shivesh.kumar@chalmers.se](mailto:shivesh.kumar@chalmers.se)
 
 ### Brian Plancher
 
-![Brian Plancher](images/1184_plancher_brian.jpg){: style="width:10%"}
+![Brian Plancher](images/brian_plancher.png){: style="width:10%"}
 
-**Affiliation**: Barnard College, Columbia University, New York City, NYC, USA
+**Affiliation**:  Dartmouth College, New Hampshire, USA
 
-**email**: [bplancher@barnard.edu](mailto:bplancher@barnard.edu)
+**email**: [plancher@dartmouth.edu](mailto:plancher@dartmouth.edu)
 
 ### Frederike Dümbgen
 
 ![Frederike Dümbgen](images/1188_dumbgen_frederike.jpg){: style="width:10%"}
 
-**Affiliation**: Willow research group, Inria Paris, France
+**Affiliation**:  Carnegie Mellon University, Pittsburgh, Pennsylvania, USA
 
 **email**: [frederike.duembgen@gmail.com](mailto:frederike.duembgen@gmail.com)
 
@@ -123,6 +87,6 @@ If you would like to contribute with projects, publications, tools, or any resou
 
 ![Roy Xing](images/roy_xing.png){: style="width:10%"}
 
-**Affiliation**: Dartmouth College, NH, USA
+**Affiliation**: Dartmouth College, New Hampshire, USA
 
 **email**: [roy.xing.gr@dartmouth.edu](mailto:roy.xing.gr@dartmouth.edu)
