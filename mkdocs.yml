@@ -8,6 +8,7 @@ nav:
   - News:
     - news/index.md
   - Contact: contact.md
+  - Careers: careers/index.md
   - Resources: resources.md
   - Seminar Series: seminars.md
   - Join us: https://www.ieee-ras.org/technical-committees/how-to-join-an-ras-technical-committee
@@ -85,7 +86,8 @@ markdown_extensions:
 
 extra_javascript:
   - js/img_carousel.js
-
+extra_css:
+  - styles/careers.css
 extra:
   social:
     - icon: fontawesome/brands/github

@@ -1,0 +1,55 @@
+/* Careers page. Uses mkdocs-material variables with fallbacks, so it follows
+   the site's light/dark palette and also works on the default theme. */
+.job-list {
+  max-height: 70vh;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  padding: 0.25rem 0.5rem 0.25rem 0;
+  scrollbar-gutter: stable;
+}
+.job-list:focus-visible {
+  outline: 2px solid var(--md-accent-fg-color, #448aff);
+  outline-offset: 2px;
+}
+.job-list--empty { padding: 1rem; opacity: 0.7; }
+
+.job-card {
+  border: 1px solid var(--md-default-fg-color--lightest, #ddd);
+  border-left: 3px solid var(--md-default-fg-color--lightest, #ddd);
+  border-radius: 4px;
+  padding: 0.7rem 1rem 0.8rem;
+  flex: 0 0 auto;
+}
+
+.job-card {
+  transition: background-color 0.15s ease;
+}
+.job-card:hover {
+  background-color: color-mix(in srgb, var(--md-default-fg-color) 5%, transparent);
+}
+
+.job-card--pi { border-left-color: var(--md-primary-fg-color, #3f51b5); }
+
+.job-card .job-title { margin: 0 0 0.15rem; font-size: 0.95rem; line-height: 1.35; }
+.job-card .job-title a { text-decoration: none; }
+.job-card .job-title a:hover { text-decoration: underline; }
+
+.job-card .job-meta { margin: 0; font-size: 0.75rem; opacity: 0.75; }
+.job-card .job-pi { margin-left: 0.6rem; font-weight: 600; color: var(--md-primary-fg-color, #3f51b5); }
+[data-md-color-scheme="slate"] .job-card .job-pi { color: var(--md-accent-fg-color, #82aaff); }
+
+.job-card .job-summary { margin: 0.4rem 0 0; font-size: 0.8rem; line-height: 1.5; max-width: 70ch; }
+
+.job-card .job-tags { list-style: none; margin: 0.45rem 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.job-card .job-tag {
+  margin: 0.1rem; padding: 0.05rem 0.55rem; font-size: 0.68rem;
+  width: 60%;
+  border-radius: 999px; background: var(--md-code-bg-color, #eee);
+}
+
+@media (max-width: 600px) {
+  .job-list { max-height: 75vh; }
+  .job-card { padding: 0.6rem 0.75rem 0.7rem; }
+}
