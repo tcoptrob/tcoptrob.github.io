@@ -22,14 +22,6 @@
   padding: 0.7rem 1rem 0.8rem;
   flex: 0 0 auto;
 }
-
-.job-card {
-  transition: background-color 0.15s ease;
-}
-.job-card:hover {
-  background-color: color-mix(in srgb, var(--md-default-fg-color) 5%, transparent);
-}
-
 .job-card--pi { border-left-color: var(--md-primary-fg-color, #3f51b5); }
 
 .job-card .job-title { margin: 0 0 0.15rem; font-size: 0.95rem; line-height: 1.35; }
@@ -44,12 +36,26 @@
 
 .job-card .job-tags { list-style: none; margin: 0.45rem 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.3rem; }
 .job-card .job-tag {
-  margin: 0.1rem; padding: 0.05rem 0.55rem; font-size: 0.68rem;
-  width: 60%;
+  width: 70%;
+  margin: 0.08rem; padding: 0.05rem 0.55rem; font-size: 0.68rem;
   border-radius: 999px; background: var(--md-code-bg-color, #eee);
 }
 
 @media (max-width: 600px) {
   .job-list { max-height: 75vh; }
   .job-card { padding: 0.6rem 0.75rem 0.7rem; }
+}
+
+.job-card .job-badge {
+  margin-left: 0.6rem; padding: 0.05rem 0.5rem; font-size: 0.68rem; font-weight: 600;
+  border-radius: 999px; color: var(--md-primary-bg-color, #fff);
+  background: var(--md-primary-fg-color, #3f51b5);
+}
+.job-card .job-badge + .job-pi { margin-left: 0.4rem; }
+
+.job-card {
+  transition: background-color 0.15s ease;
+}
+.job-card:hover {
+  background-color: color-mix(in srgb, var(--md-default-fg-color) 5%, transparent);
 }
