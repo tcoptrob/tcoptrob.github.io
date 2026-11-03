@@ -5,9 +5,21 @@
 
 # Archive of Seminar Series
 
+## 2025-2026
+
+### Line-Up and Video Links
+
+| Date | Speaker | Title | YouTube |
+| ----------- | ----------- | ----------- | ----------- |
+| Dec. 11, 2025  | Heng Yang | Semidefinite Relaxations for Robot Perception and Control:  From Theory to Practice and Back | [(link)](https://youtu.be/nXthoML7ERc) |
+| Jan. 15, 2026  | Anirudha Majumdar  | Video World Models That Know When They Don't Know | [(link)](https://www.youtube.com/watch?v=DFtEwErSSsg) |
+| Feb. 19, 2026  | Thomas Lew  | Uncertainty-Aware Control at the Limits | [(link)](https://www.youtube.com/watch?v=hpfcXQJIhdQ&amp) |
+| March 25, 2026  | Yan Gu | Prediction & Reaction in Motion: Humanoid Control for Non-Inertial Worlds and Athletic AI | [(link)](https://www.youtube.com/watch?v=00W4bak1qQ8) |
+| April 10, 2026  | Somil Bansal |  Learning Safety in the Open World: From Reachability to Foundation Models | [(link)](https://www.youtube.com/watch?v=FLn9DHvkr-g) |
+
 ## 2024-2025
 
-## Line-Up and Video Links
+### Line-Up and Video Links
 
 | Date | Speaker | Title | YouTube |
 | ----------- | ----------- | ----------- | ----------- |
@@ -19,7 +31,7 @@
 
 ## 2023-2024
 
-## Line-Up and Video Links
+### Line-Up and Video Links
 
 | Date | Speaker | Title | YouTube |
 | ----------- | ----------- | ----------- | ----------- |

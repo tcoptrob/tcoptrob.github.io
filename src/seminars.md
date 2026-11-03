@@ -3,10 +3,15 @@
     -navigation
 ---
 
-# 2025-2026 Seminar Series
+# 2026-2027 Seminar Series
 
 [Link to older Seminar Series](seminars_old.md)
 
+We are happy to announce our new upcoming lineup of speakers for the 2026-2027 virtual seminar series for the TC on Optimization for Robotics!
+Please find the names of our speakers in the table below or in the [announcement flyer](assets/flyer_seminars_26_27.png). 
+
+As the date of each seminar comes closer, we will update this page with the exact dates, the seminar topic and abstract, and a link to the virtual room.
+<!---
 ## Upcoming Seminar
 
 **Speaker**: Somil Bansal (Stanford University)
@@ -34,13 +39,14 @@ and generative models.*
 **Time**: 9:00-10:00 AM PST
 
 **Link**: [https://dartmouth.zoom.us/j/94765993258?pwd=aErnkjFBqQaOTEgonxZkeNTbojHRbp.1](https://dartmouth.zoom.us/j/94765993258?pwd=aErnkjFBqQaOTEgonxZkeNTbojHRbp.1)
-
+--->
 ## Line-Up and Video Links
 
 | Date | Speaker | Title | YouTube |
 | ----------- | ----------- | ----------- | ----------- |
-| Dec. 11, 2025  | Heng Yang | Semidefinite Relaxations for Robot Perception and Control:  From Theory to Practice and Back | [(link)](https://youtu.be/nXthoML7ERc) |
-| Jan. 15, 2026  | Anirudha Majumdar  | Video World Models That Know When They Don't Know | [(link)](https://www.youtube.com/watch?v=DFtEwErSSsg) |
-| Feb. 19, 2026  | Thomas Lew  | Uncertainty-Aware Control at the Limits | [(link)](https://www.youtube.com/watch?v=hpfcXQJIhdQ&amp) |
-| March 25, 2026  | Yan Gu | Prediction & Reaction in Motion: Humanoid Control for Non-Inertial Worlds and Athletic AI | [(link)](https://www.youtube.com/watch?v=00W4bak1qQ8) |
-| April 10, 2026  | Somil Bansal |  Learning Safety in the Open World: From Reachability to Foundation Models | [(link)](https://www.youtube.com/watch?v=FLn9DHvkr-g) |
+| Dec. 3, 2026  | Fan Shi | Title announced soon! | - |
+| Jan, 2027  | Glen Chou | Title announced soon! | - |
+| Feb, 2027 | Tao Pang | Title announced soon! | - |
+| March, 2027 | Nadia Figueroa | Title announced soon! | - |
+| April, 2027 | Ajay Sathya |  Title announced soon! | - |
+| April, 2027  | Armin Nurkanović |  Title announced soon! | - |
