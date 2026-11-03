@@ -2,8 +2,13 @@
 without network access. Exercises the REAL classify/match_pi/retention/render
 code from fetch_jobs.py -- only the network fetch step is mocked out.
 
-Usage: python demo_run.py   (writes demo_output/careers/index.md)
+Usage:
+    python demo_run.py            writes demo_output/careers/index.md (safe, git-ignored)
+    python demo_run.py --to-site  OVERWRITES src/careers.md with the demo page, so you
+                                  can preview it in `mkdocs serve`. Do not commit the
+                                  result; a real run of fetch_jobs.py replaces it.
 """
+import argparse
 import datetime as dt
 import sys
 from pathlib import Path
@@ -65,6 +70,10 @@ MOCK_MESSAGES = [
 
 
 def main():
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--to-site", action="store_true", help="overwrite src/careers.md instead of writing to demo_output/")
+    args = ap.parse_args()
+
     keywords_cfg, pis = fj.load_config()
 
     new_records = []
@@ -89,10 +98,14 @@ def main():
 
     markdown = fj.render_markdown(retained, generated_at=TODAY)
 
-    out_path = Path(__file__).resolve().parent / "demo_output" / "careers" / "index.md"
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(markdown, encoding="utf-8")
-    print(f"Wrote {out_path}")
+    if args.to_site:
+        fj.write_page(markdown)  # writes fj.PAGE_PATH, i.e. src/careers.md
+        print(f"Wrote {fj.PAGE_PATH}  (demo data, do not commit)")
+    else:
+        out_path = Path(__file__).resolve().parent / "demo_output" / "careers" / "index.md"
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        out_path.write_text(markdown, encoding="utf-8")
+        print(f"Wrote {out_path}")
 
 
 if __name__ == "__main__":
